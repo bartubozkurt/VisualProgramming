@@ -1,2 +1,2 @@
 # GorselProgramlamaOrnekleri
-# Bu Örnekler Görsel Programlama dersin'de yaptığımız örnekler ve benim kendi çalışmalarımı içerir.
+// Bu Örnekler Görsel Programlama dersin'de yaptığımız örnekler ve benim kendi çalışmalarımı içerir.
