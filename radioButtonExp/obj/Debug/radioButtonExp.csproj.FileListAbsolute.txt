@@ -1,0 +1,20 @@
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\radioButtonExp\radioButtonExp\bin\Debug\radioButtonExp.exe.config
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\radioButtonExp\radioButtonExp\bin\Debug\radioButtonExp.exe
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\radioButtonExp\radioButtonExp\bin\Debug\radioButtonExp.pdb
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\radioButtonExp\radioButtonExp\obj\Debug\radioButtonExp.csprojAssemblyReference.cache
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\radioButtonExp\radioButtonExp\obj\Debug\radioButtonExp.Form1.resources
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\radioButtonExp\radioButtonExp\obj\Debug\radioButtonExp.Properties.Resources.resources
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\radioButtonExp\radioButtonExp\obj\Debug\radioButtonExp.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\radioButtonExp\radioButtonExp\obj\Debug\radioButtonExp.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\radioButtonExp\radioButtonExp\obj\Debug\radioButtonExp.exe
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\radioButtonExp\radioButtonExp\obj\Debug\radioButtonExp.pdb
+C:\Users\bartu\Desktop\GorselProgramlama\radioButtonExp\radioButtonExp\bin\Debug\radioButtonExp.exe.config
+C:\Users\bartu\Desktop\GorselProgramlama\radioButtonExp\radioButtonExp\bin\Debug\radioButtonExp.exe
+C:\Users\bartu\Desktop\GorselProgramlama\radioButtonExp\radioButtonExp\bin\Debug\radioButtonExp.pdb
+C:\Users\bartu\Desktop\GorselProgramlama\radioButtonExp\radioButtonExp\obj\Debug\radioButtonExp.csprojAssemblyReference.cache
+C:\Users\bartu\Desktop\GorselProgramlama\radioButtonExp\radioButtonExp\obj\Debug\radioButtonExp.Form1.resources
+C:\Users\bartu\Desktop\GorselProgramlama\radioButtonExp\radioButtonExp\obj\Debug\radioButtonExp.Properties.Resources.resources
+C:\Users\bartu\Desktop\GorselProgramlama\radioButtonExp\radioButtonExp\obj\Debug\radioButtonExp.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\GorselProgramlama\radioButtonExp\radioButtonExp\obj\Debug\radioButtonExp.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\GorselProgramlama\radioButtonExp\radioButtonExp\obj\Debug\radioButtonExp.exe
+C:\Users\bartu\Desktop\GorselProgramlama\radioButtonExp\radioButtonExp\obj\Debug\radioButtonExp.pdb
