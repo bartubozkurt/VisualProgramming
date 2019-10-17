@@ -1,0 +1,20 @@
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\exp_events\exp_events\bin\Debug\exp_events.exe.config
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\exp_events\exp_events\bin\Debug\exp_events.exe
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\exp_events\exp_events\bin\Debug\exp_events.pdb
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\exp_events\exp_events\obj\Debug\exp_events.csprojAssemblyReference.cache
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\exp_events\exp_events\obj\Debug\exp_events.Form1.resources
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\exp_events\exp_events\obj\Debug\exp_events.Properties.Resources.resources
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\exp_events\exp_events\obj\Debug\exp_events.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\exp_events\exp_events\obj\Debug\exp_events.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\exp_events\exp_events\obj\Debug\exp_events.exe
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\exp_events\exp_events\obj\Debug\exp_events.pdb
+C:\Users\bartu\Desktop\GorselProgramlama\exp_events\exp_events\bin\Debug\exp_events.exe.config
+C:\Users\bartu\Desktop\GorselProgramlama\exp_events\exp_events\bin\Debug\exp_events.exe
+C:\Users\bartu\Desktop\GorselProgramlama\exp_events\exp_events\bin\Debug\exp_events.pdb
+C:\Users\bartu\Desktop\GorselProgramlama\exp_events\exp_events\obj\Debug\exp_events.csprojAssemblyReference.cache
+C:\Users\bartu\Desktop\GorselProgramlama\exp_events\exp_events\obj\Debug\exp_events.Form1.resources
+C:\Users\bartu\Desktop\GorselProgramlama\exp_events\exp_events\obj\Debug\exp_events.Properties.Resources.resources
+C:\Users\bartu\Desktop\GorselProgramlama\exp_events\exp_events\obj\Debug\exp_events.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\GorselProgramlama\exp_events\exp_events\obj\Debug\exp_events.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\GorselProgramlama\exp_events\exp_events\obj\Debug\exp_events.exe
+C:\Users\bartu\Desktop\GorselProgramlama\exp_events\exp_events\obj\Debug\exp_events.pdb
