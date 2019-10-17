@@ -1,0 +1,20 @@
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\ChechBoxexp\ChechBoxexp\obj\Debug\ChechBoxexp.csprojAssemblyReference.cache
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\ChechBoxexp\ChechBoxexp\obj\Debug\ChechBoxexp.Form1.resources
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\ChechBoxexp\ChechBoxexp\obj\Debug\ChechBoxexp.Properties.Resources.resources
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\ChechBoxexp\ChechBoxexp\obj\Debug\ChechBoxexp.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\ChechBoxexp\ChechBoxexp\obj\Debug\ChechBoxexp.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\ChechBoxexp\ChechBoxexp\bin\Debug\ChechBoxexp.exe.config
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\ChechBoxexp\ChechBoxexp\bin\Debug\ChechBoxexp.exe
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\ChechBoxexp\ChechBoxexp\bin\Debug\ChechBoxexp.pdb
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\ChechBoxexp\ChechBoxexp\obj\Debug\ChechBoxexp.exe
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\ChechBoxexp\ChechBoxexp\obj\Debug\ChechBoxexp.pdb
+C:\Users\bartu\Desktop\GorselProgramlama\CheckBoxexp\ChechBoxexp\bin\Debug\ChechBoxexp.exe.config
+C:\Users\bartu\Desktop\GorselProgramlama\CheckBoxexp\ChechBoxexp\bin\Debug\ChechBoxexp.exe
+C:\Users\bartu\Desktop\GorselProgramlama\CheckBoxexp\ChechBoxexp\bin\Debug\ChechBoxexp.pdb
+C:\Users\bartu\Desktop\GorselProgramlama\CheckBoxexp\ChechBoxexp\obj\Debug\ChechBoxexp.csprojAssemblyReference.cache
+C:\Users\bartu\Desktop\GorselProgramlama\CheckBoxexp\ChechBoxexp\obj\Debug\ChechBoxexp.Form1.resources
+C:\Users\bartu\Desktop\GorselProgramlama\CheckBoxexp\ChechBoxexp\obj\Debug\ChechBoxexp.Properties.Resources.resources
+C:\Users\bartu\Desktop\GorselProgramlama\CheckBoxexp\ChechBoxexp\obj\Debug\ChechBoxexp.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\GorselProgramlama\CheckBoxexp\ChechBoxexp\obj\Debug\ChechBoxexp.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\GorselProgramlama\CheckBoxexp\ChechBoxexp\obj\Debug\ChechBoxexp.exe
+C:\Users\bartu\Desktop\GorselProgramlama\CheckBoxexp\ChechBoxexp\obj\Debug\ChechBoxexp.pdb
