@@ -1,0 +1,20 @@
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\constantExp\constantExp\bin\Debug\constantExp.exe.config
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\constantExp\constantExp\bin\Debug\constantExp.exe
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\constantExp\constantExp\bin\Debug\constantExp.pdb
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\constantExp\constantExp\obj\Debug\constantExp.csprojAssemblyReference.cache
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\constantExp\constantExp\obj\Debug\constantExp.Form1.resources
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\constantExp\constantExp\obj\Debug\constantExp.Properties.Resources.resources
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\constantExp\constantExp\obj\Debug\constantExp.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\constantExp\constantExp\obj\Debug\constantExp.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\constantExp\constantExp\obj\Debug\constantExp.exe
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\constantExp\constantExp\obj\Debug\constantExp.pdb
+C:\Users\bartu\Desktop\GorselProgramlama\constantExp\constantExp\bin\Debug\constantExp.exe.config
+C:\Users\bartu\Desktop\GorselProgramlama\constantExp\constantExp\bin\Debug\constantExp.exe
+C:\Users\bartu\Desktop\GorselProgramlama\constantExp\constantExp\bin\Debug\constantExp.pdb
+C:\Users\bartu\Desktop\GorselProgramlama\constantExp\constantExp\obj\Debug\constantExp.csprojAssemblyReference.cache
+C:\Users\bartu\Desktop\GorselProgramlama\constantExp\constantExp\obj\Debug\constantExp.Form1.resources
+C:\Users\bartu\Desktop\GorselProgramlama\constantExp\constantExp\obj\Debug\constantExp.Properties.Resources.resources
+C:\Users\bartu\Desktop\GorselProgramlama\constantExp\constantExp\obj\Debug\constantExp.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\GorselProgramlama\constantExp\constantExp\obj\Debug\constantExp.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\GorselProgramlama\constantExp\constantExp\obj\Debug\constantExp.exe
+C:\Users\bartu\Desktop\GorselProgramlama\constantExp\constantExp\obj\Debug\constantExp.pdb
