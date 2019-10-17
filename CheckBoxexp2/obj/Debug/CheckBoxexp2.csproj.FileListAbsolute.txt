@@ -1,0 +1,20 @@
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\CheckBoxexp2\CheckBoxexp2\bin\Debug\CheckBoxexp2.exe.config
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\CheckBoxexp2\CheckBoxexp2\bin\Debug\CheckBoxexp2.exe
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\CheckBoxexp2\CheckBoxexp2\bin\Debug\CheckBoxexp2.pdb
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\CheckBoxexp2\CheckBoxexp2\obj\Debug\CheckBoxexp2.csprojAssemblyReference.cache
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\CheckBoxexp2\CheckBoxexp2\obj\Debug\CheckBoxexp2.Form1.resources
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\CheckBoxexp2\CheckBoxexp2\obj\Debug\CheckBoxexp2.Properties.Resources.resources
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\CheckBoxexp2\CheckBoxexp2\obj\Debug\CheckBoxexp2.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\CheckBoxexp2\CheckBoxexp2\obj\Debug\CheckBoxexp2.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\CheckBoxexp2\CheckBoxexp2\obj\Debug\CheckBoxexp2.exe
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\CheckBoxexp2\CheckBoxexp2\obj\Debug\CheckBoxexp2.pdb
+C:\Users\bartu\Desktop\GorselProgramlama\CheckBoxexp2\CheckBoxexp2\bin\Debug\CheckBoxexp2.exe.config
+C:\Users\bartu\Desktop\GorselProgramlama\CheckBoxexp2\CheckBoxexp2\bin\Debug\CheckBoxexp2.exe
+C:\Users\bartu\Desktop\GorselProgramlama\CheckBoxexp2\CheckBoxexp2\bin\Debug\CheckBoxexp2.pdb
+C:\Users\bartu\Desktop\GorselProgramlama\CheckBoxexp2\CheckBoxexp2\obj\Debug\CheckBoxexp2.csprojAssemblyReference.cache
+C:\Users\bartu\Desktop\GorselProgramlama\CheckBoxexp2\CheckBoxexp2\obj\Debug\CheckBoxexp2.Form1.resources
+C:\Users\bartu\Desktop\GorselProgramlama\CheckBoxexp2\CheckBoxexp2\obj\Debug\CheckBoxexp2.Properties.Resources.resources
+C:\Users\bartu\Desktop\GorselProgramlama\CheckBoxexp2\CheckBoxexp2\obj\Debug\CheckBoxexp2.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\GorselProgramlama\CheckBoxexp2\CheckBoxexp2\obj\Debug\CheckBoxexp2.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\GorselProgramlama\CheckBoxexp2\CheckBoxexp2\obj\Debug\CheckBoxexp2.exe
+C:\Users\bartu\Desktop\GorselProgramlama\CheckBoxexp2\CheckBoxexp2\obj\Debug\CheckBoxexp2.pdb
