@@ -1,0 +1,20 @@
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\comboBoxexp\comboBoxexp\bin\Debug\comboBoxexp.exe.config
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\comboBoxexp\comboBoxexp\bin\Debug\comboBoxexp.exe
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\comboBoxexp\comboBoxexp\bin\Debug\comboBoxexp.pdb
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\comboBoxexp\comboBoxexp\obj\Debug\comboBoxexp.csprojAssemblyReference.cache
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\comboBoxexp\comboBoxexp\obj\Debug\comboBoxexp.Form1.resources
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\comboBoxexp\comboBoxexp\obj\Debug\comboBoxexp.Properties.Resources.resources
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\comboBoxexp\comboBoxexp\obj\Debug\comboBoxexp.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\comboBoxexp\comboBoxexp\obj\Debug\comboBoxexp.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\comboBoxexp\comboBoxexp\obj\Debug\comboBoxexp.exe
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\comboBoxexp\comboBoxexp\obj\Debug\comboBoxexp.pdb
+C:\Users\bartu\Desktop\GorselProgramlama\comboBoxexp\comboBoxexp\bin\Debug\comboBoxexp.exe.config
+C:\Users\bartu\Desktop\GorselProgramlama\comboBoxexp\comboBoxexp\bin\Debug\comboBoxexp.exe
+C:\Users\bartu\Desktop\GorselProgramlama\comboBoxexp\comboBoxexp\bin\Debug\comboBoxexp.pdb
+C:\Users\bartu\Desktop\GorselProgramlama\comboBoxexp\comboBoxexp\obj\Debug\comboBoxexp.csprojAssemblyReference.cache
+C:\Users\bartu\Desktop\GorselProgramlama\comboBoxexp\comboBoxexp\obj\Debug\comboBoxexp.Form1.resources
+C:\Users\bartu\Desktop\GorselProgramlama\comboBoxexp\comboBoxexp\obj\Debug\comboBoxexp.Properties.Resources.resources
+C:\Users\bartu\Desktop\GorselProgramlama\comboBoxexp\comboBoxexp\obj\Debug\comboBoxexp.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\GorselProgramlama\comboBoxexp\comboBoxexp\obj\Debug\comboBoxexp.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\GorselProgramlama\comboBoxexp\comboBoxexp\obj\Debug\comboBoxexp.exe
+C:\Users\bartu\Desktop\GorselProgramlama\comboBoxexp\comboBoxexp\obj\Debug\comboBoxexp.pdb
