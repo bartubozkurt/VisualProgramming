@@ -1,0 +1,40 @@
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\exp2\exp2\obj\Debug\exp2.csprojAssemblyReference.cache
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\exp2\exp2\obj\Debug\exp2.Form1.resources
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\exp2\exp2\obj\Debug\exp2.Properties.Resources.resources
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\exp2\exp2\obj\Debug\exp2.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\exp2\exp2\obj\Debug\exp2.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\exp2\exp2\bin\Debug\exp2.exe.config
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\exp2\exp2\bin\Debug\exp2.exe
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\exp2\exp2\bin\Debug\exp2.pdb
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\exp2\exp2\obj\Debug\exp2.exe
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\exp2\exp2\obj\Debug\exp2.pdb
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\SimpleCalculator\exp2\bin\Debug\exp2.exe.config
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\SimpleCalculator\exp2\bin\Debug\exp2.exe
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\SimpleCalculator\exp2\bin\Debug\exp2.pdb
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\SimpleCalculator\exp2\obj\Debug\exp2.csprojAssemblyReference.cache
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\SimpleCalculator\exp2\obj\Debug\exp2.Form1.resources
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\SimpleCalculator\exp2\obj\Debug\exp2.Properties.Resources.resources
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\SimpleCalculator\exp2\obj\Debug\exp2.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\SimpleCalculator\exp2\obj\Debug\exp2.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\SimpleCalculator\exp2\obj\Debug\exp2.exe
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\SimpleCalculator\exp2\obj\Debug\exp2.pdb
+C:\Users\bartu\Desktop\C# exp\SimpleCalculator\exp2\bin\Debug\exp2.exe.config
+C:\Users\bartu\Desktop\C# exp\SimpleCalculator\exp2\bin\Debug\exp2.exe
+C:\Users\bartu\Desktop\C# exp\SimpleCalculator\exp2\bin\Debug\exp2.pdb
+C:\Users\bartu\Desktop\C# exp\SimpleCalculator\exp2\obj\Debug\exp2.csprojAssemblyReference.cache
+C:\Users\bartu\Desktop\C# exp\SimpleCalculator\exp2\obj\Debug\exp2.Form1.resources
+C:\Users\bartu\Desktop\C# exp\SimpleCalculator\exp2\obj\Debug\exp2.Properties.Resources.resources
+C:\Users\bartu\Desktop\C# exp\SimpleCalculator\exp2\obj\Debug\exp2.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\C# exp\SimpleCalculator\exp2\obj\Debug\exp2.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\C# exp\SimpleCalculator\exp2\obj\Debug\exp2.exe
+C:\Users\bartu\Desktop\C# exp\SimpleCalculator\exp2\obj\Debug\exp2.pdb
+C:\Users\bartu\Desktop\GorselProgramlama\SimpleCalculator\exp2\bin\Debug\exp2.exe.config
+C:\Users\bartu\Desktop\GorselProgramlama\SimpleCalculator\exp2\bin\Debug\exp2.exe
+C:\Users\bartu\Desktop\GorselProgramlama\SimpleCalculator\exp2\bin\Debug\exp2.pdb
+C:\Users\bartu\Desktop\GorselProgramlama\SimpleCalculator\exp2\obj\Debug\exp2.csprojAssemblyReference.cache
+C:\Users\bartu\Desktop\GorselProgramlama\SimpleCalculator\exp2\obj\Debug\exp2.Form1.resources
+C:\Users\bartu\Desktop\GorselProgramlama\SimpleCalculator\exp2\obj\Debug\exp2.Properties.Resources.resources
+C:\Users\bartu\Desktop\GorselProgramlama\SimpleCalculator\exp2\obj\Debug\exp2.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\GorselProgramlama\SimpleCalculator\exp2\obj\Debug\exp2.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\GorselProgramlama\SimpleCalculator\exp2\obj\Debug\exp2.exe
+C:\Users\bartu\Desktop\GorselProgramlama\SimpleCalculator\exp2\obj\Debug\exp2.pdb
