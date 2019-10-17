@@ -1,0 +1,20 @@
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\RandomExp\RandomExp\bin\Debug\RandomExp.exe.config
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\RandomExp\RandomExp\bin\Debug\RandomExp.exe
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\RandomExp\RandomExp\bin\Debug\RandomExp.pdb
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\RandomExp\RandomExp\obj\Debug\RandomExp.csprojAssemblyReference.cache
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\RandomExp\RandomExp\obj\Debug\RandomExp.Form1.resources
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\RandomExp\RandomExp\obj\Debug\RandomExp.Properties.Resources.resources
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\RandomExp\RandomExp\obj\Debug\RandomExp.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\RandomExp\RandomExp\obj\Debug\RandomExp.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\RandomExp\RandomExp\obj\Debug\RandomExp.exe
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\RandomExp\RandomExp\obj\Debug\RandomExp.pdb
+C:\Users\bartu\Desktop\GorselProgramlama\RandomExp\RandomExp\bin\Debug\RandomExp.exe.config
+C:\Users\bartu\Desktop\GorselProgramlama\RandomExp\RandomExp\bin\Debug\RandomExp.exe
+C:\Users\bartu\Desktop\GorselProgramlama\RandomExp\RandomExp\bin\Debug\RandomExp.pdb
+C:\Users\bartu\Desktop\GorselProgramlama\RandomExp\RandomExp\obj\Debug\RandomExp.csprojAssemblyReference.cache
+C:\Users\bartu\Desktop\GorselProgramlama\RandomExp\RandomExp\obj\Debug\RandomExp.Form1.resources
+C:\Users\bartu\Desktop\GorselProgramlama\RandomExp\RandomExp\obj\Debug\RandomExp.Properties.Resources.resources
+C:\Users\bartu\Desktop\GorselProgramlama\RandomExp\RandomExp\obj\Debug\RandomExp.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\GorselProgramlama\RandomExp\RandomExp\obj\Debug\RandomExp.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\GorselProgramlama\RandomExp\RandomExp\obj\Debug\RandomExp.exe
+C:\Users\bartu\Desktop\GorselProgramlama\RandomExp\RandomExp\obj\Debug\RandomExp.pdb
