@@ -1,0 +1,10 @@
+C:\Users\bartu\Desktop\gorselprogramlamaodev\gorselprogramlamaodev\bin\Debug\gorselprogramlamaodev.exe.config
+C:\Users\bartu\Desktop\gorselprogramlamaodev\gorselprogramlamaodev\bin\Debug\gorselprogramlamaodev.exe
+C:\Users\bartu\Desktop\gorselprogramlamaodev\gorselprogramlamaodev\bin\Debug\gorselprogramlamaodev.pdb
+C:\Users\bartu\Desktop\gorselprogramlamaodev\gorselprogramlamaodev\obj\Debug\gorselprogramlamaodev.csprojAssemblyReference.cache
+C:\Users\bartu\Desktop\gorselprogramlamaodev\gorselprogramlamaodev\obj\Debug\gorselprogramlamaodev.Form1.resources
+C:\Users\bartu\Desktop\gorselprogramlamaodev\gorselprogramlamaodev\obj\Debug\gorselprogramlamaodev.Properties.Resources.resources
+C:\Users\bartu\Desktop\gorselprogramlamaodev\gorselprogramlamaodev\obj\Debug\gorselprogramlamaodev.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\gorselprogramlamaodev\gorselprogramlamaodev\obj\Debug\gorselprogramlamaodev.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\gorselprogramlamaodev\gorselprogramlamaodev\obj\Debug\gorselprogramlamaodev.exe
+C:\Users\bartu\Desktop\gorselprogramlamaodev\gorselprogramlamaodev\obj\Debug\gorselprogramlamaodev.pdb
