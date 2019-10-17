@@ -1,0 +1,20 @@
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\RadioButton\RadioButton\bin\Debug\RadioButton.exe.config
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\RadioButton\RadioButton\bin\Debug\RadioButton.exe
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\RadioButton\RadioButton\bin\Debug\RadioButton.pdb
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\RadioButton\RadioButton\obj\Debug\RadioButton.csprojAssemblyReference.cache
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\RadioButton\RadioButton\obj\Debug\RadioButton.Form1.resources
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\RadioButton\RadioButton\obj\Debug\RadioButton.Properties.Resources.resources
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\RadioButton\RadioButton\obj\Debug\RadioButton.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\RadioButton\RadioButton\obj\Debug\RadioButton.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\RadioButton\RadioButton\obj\Debug\RadioButton.exe
+C:\Users\bartu\Desktop\Visual Studio 2017 exp\RadioButton\RadioButton\obj\Debug\RadioButton.pdb
+C:\Users\bartu\Desktop\GorselProgramlama\RadioButton\RadioButton\bin\Debug\RadioButton.exe.config
+C:\Users\bartu\Desktop\GorselProgramlama\RadioButton\RadioButton\bin\Debug\RadioButton.exe
+C:\Users\bartu\Desktop\GorselProgramlama\RadioButton\RadioButton\bin\Debug\RadioButton.pdb
+C:\Users\bartu\Desktop\GorselProgramlama\RadioButton\RadioButton\obj\Debug\RadioButton.csprojAssemblyReference.cache
+C:\Users\bartu\Desktop\GorselProgramlama\RadioButton\RadioButton\obj\Debug\RadioButton.Form1.resources
+C:\Users\bartu\Desktop\GorselProgramlama\RadioButton\RadioButton\obj\Debug\RadioButton.Properties.Resources.resources
+C:\Users\bartu\Desktop\GorselProgramlama\RadioButton\RadioButton\obj\Debug\RadioButton.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\GorselProgramlama\RadioButton\RadioButton\obj\Debug\RadioButton.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\GorselProgramlama\RadioButton\RadioButton\obj\Debug\RadioButton.exe
+C:\Users\bartu\Desktop\GorselProgramlama\RadioButton\RadioButton\obj\Debug\RadioButton.pdb
