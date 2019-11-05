@@ -1,0 +1,10 @@
+C:\Users\bartu\source\repos\Bartubozkurt2017280013odev2\Bartubozkurt2017280013odev2\bin\Debug\Bartubozkurt2017280013odev2.exe.config
+C:\Users\bartu\source\repos\Bartubozkurt2017280013odev2\Bartubozkurt2017280013odev2\bin\Debug\Bartubozkurt2017280013odev2.exe
+C:\Users\bartu\source\repos\Bartubozkurt2017280013odev2\Bartubozkurt2017280013odev2\bin\Debug\Bartubozkurt2017280013odev2.pdb
+C:\Users\bartu\source\repos\Bartubozkurt2017280013odev2\Bartubozkurt2017280013odev2\obj\Debug\Bartubozkurt2017280013odev2.csprojAssemblyReference.cache
+C:\Users\bartu\source\repos\Bartubozkurt2017280013odev2\Bartubozkurt2017280013odev2\obj\Debug\Bartubozkurt2017280013odev2.Form1.resources
+C:\Users\bartu\source\repos\Bartubozkurt2017280013odev2\Bartubozkurt2017280013odev2\obj\Debug\Bartubozkurt2017280013odev2.Properties.Resources.resources
+C:\Users\bartu\source\repos\Bartubozkurt2017280013odev2\Bartubozkurt2017280013odev2\obj\Debug\Bartubozkurt2017280013odev2.csproj.GenerateResource.cache
+C:\Users\bartu\source\repos\Bartubozkurt2017280013odev2\Bartubozkurt2017280013odev2\obj\Debug\Bartubozkurt2017280013odev2.csproj.CoreCompileInputs.cache
+C:\Users\bartu\source\repos\Bartubozkurt2017280013odev2\Bartubozkurt2017280013odev2\obj\Debug\Bartubozkurt2017280013odev2.exe
+C:\Users\bartu\source\repos\Bartubozkurt2017280013odev2\Bartubozkurt2017280013odev2\obj\Debug\Bartubozkurt2017280013odev2.pdb
