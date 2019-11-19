@@ -1,0 +1,10 @@
+C:\Users\bartu\Desktop\midterm\BMICalculator\BMICalculator\bin\Debug\BMICalculator.exe.config
+C:\Users\bartu\Desktop\midterm\BMICalculator\BMICalculator\bin\Debug\BMICalculator.exe
+C:\Users\bartu\Desktop\midterm\BMICalculator\BMICalculator\bin\Debug\BMICalculator.pdb
+C:\Users\bartu\Desktop\midterm\BMICalculator\BMICalculator\obj\Debug\BMICalculator.csprojAssemblyReference.cache
+C:\Users\bartu\Desktop\midterm\BMICalculator\BMICalculator\obj\Debug\BMICalculator.Form1.resources
+C:\Users\bartu\Desktop\midterm\BMICalculator\BMICalculator\obj\Debug\BMICalculator.Properties.Resources.resources
+C:\Users\bartu\Desktop\midterm\BMICalculator\BMICalculator\obj\Debug\BMICalculator.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\midterm\BMICalculator\BMICalculator\obj\Debug\BMICalculator.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\midterm\BMICalculator\BMICalculator\obj\Debug\BMICalculator.exe
+C:\Users\bartu\Desktop\midterm\BMICalculator\BMICalculator\obj\Debug\BMICalculator.pdb
