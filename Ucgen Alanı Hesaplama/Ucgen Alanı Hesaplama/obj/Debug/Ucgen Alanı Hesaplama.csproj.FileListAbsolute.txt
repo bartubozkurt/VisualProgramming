@@ -1,0 +1,10 @@
+C:\Users\bartu\Desktop\midterm\Ucgen Alanı Hesaplama\Ucgen Alanı Hesaplama\bin\Debug\Ucgen Alanı Hesaplama.exe.config
+C:\Users\bartu\Desktop\midterm\Ucgen Alanı Hesaplama\Ucgen Alanı Hesaplama\bin\Debug\Ucgen Alanı Hesaplama.exe
+C:\Users\bartu\Desktop\midterm\Ucgen Alanı Hesaplama\Ucgen Alanı Hesaplama\bin\Debug\Ucgen Alanı Hesaplama.pdb
+C:\Users\bartu\Desktop\midterm\Ucgen Alanı Hesaplama\Ucgen Alanı Hesaplama\obj\Debug\Ucgen_Alanı_Hesaplama.Form1.resources
+C:\Users\bartu\Desktop\midterm\Ucgen Alanı Hesaplama\Ucgen Alanı Hesaplama\obj\Debug\Ucgen_Alanı_Hesaplama.Properties.Resources.resources
+C:\Users\bartu\Desktop\midterm\Ucgen Alanı Hesaplama\Ucgen Alanı Hesaplama\obj\Debug\Ucgen Alanı Hesaplama.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\midterm\Ucgen Alanı Hesaplama\Ucgen Alanı Hesaplama\obj\Debug\Ucgen Alanı Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\midterm\Ucgen Alanı Hesaplama\Ucgen Alanı Hesaplama\obj\Debug\Ucgen Alanı Hesaplama.exe
+C:\Users\bartu\Desktop\midterm\Ucgen Alanı Hesaplama\Ucgen Alanı Hesaplama\obj\Debug\Ucgen Alanı Hesaplama.pdb
+C:\Users\bartu\Desktop\midterm\Ucgen Alanı Hesaplama\Ucgen Alanı Hesaplama\obj\Debug\Ucgen Alanı Hesaplama.csprojAssemblyReference.cache

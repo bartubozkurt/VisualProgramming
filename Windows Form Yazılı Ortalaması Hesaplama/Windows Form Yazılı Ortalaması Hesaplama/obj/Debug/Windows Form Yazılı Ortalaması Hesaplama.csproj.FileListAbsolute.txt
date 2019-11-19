@@ -1,0 +1,10 @@
+C:\Users\bartu\Desktop\midterm\Windows Form Yazılı Ortalaması Hesaplama\Windows Form Yazılı Ortalaması Hesaplama\obj\Debug\Windows Form Yazılı Ortalaması Hesaplama.csprojAssemblyReference.cache
+C:\Users\bartu\Desktop\midterm\Windows Form Yazılı Ortalaması Hesaplama\Windows Form Yazılı Ortalaması Hesaplama\obj\Debug\Windows_Form_Yazılı_Ortalaması_Hesaplama.Form1.resources
+C:\Users\bartu\Desktop\midterm\Windows Form Yazılı Ortalaması Hesaplama\Windows Form Yazılı Ortalaması Hesaplama\obj\Debug\Windows_Form_Yazılı_Ortalaması_Hesaplama.Properties.Resources.resources
+C:\Users\bartu\Desktop\midterm\Windows Form Yazılı Ortalaması Hesaplama\Windows Form Yazılı Ortalaması Hesaplama\obj\Debug\Windows Form Yazılı Ortalaması Hesaplama.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\midterm\Windows Form Yazılı Ortalaması Hesaplama\Windows Form Yazılı Ortalaması Hesaplama\obj\Debug\Windows Form Yazılı Ortalaması Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\midterm\Windows Form Yazılı Ortalaması Hesaplama\Windows Form Yazılı Ortalaması Hesaplama\bin\Debug\Windows Form Yazılı Ortalaması Hesaplama.exe.config
+C:\Users\bartu\Desktop\midterm\Windows Form Yazılı Ortalaması Hesaplama\Windows Form Yazılı Ortalaması Hesaplama\bin\Debug\Windows Form Yazılı Ortalaması Hesaplama.exe
+C:\Users\bartu\Desktop\midterm\Windows Form Yazılı Ortalaması Hesaplama\Windows Form Yazılı Ortalaması Hesaplama\bin\Debug\Windows Form Yazılı Ortalaması Hesaplama.pdb
+C:\Users\bartu\Desktop\midterm\Windows Form Yazılı Ortalaması Hesaplama\Windows Form Yazılı Ortalaması Hesaplama\obj\Debug\Windows Form Yazılı Ortalaması Hesaplama.exe
+C:\Users\bartu\Desktop\midterm\Windows Form Yazılı Ortalaması Hesaplama\Windows Form Yazılı Ortalaması Hesaplama\obj\Debug\Windows Form Yazılı Ortalaması Hesaplama.pdb
