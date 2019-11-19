@@ -1,0 +1,10 @@
+C:\Users\bartu\Desktop\midterm\AddAllNumbersFrom50to100\AddAllNumbersFrom50to100\bin\Debug\AddAllNumbersFrom50to100.exe.config
+C:\Users\bartu\Desktop\midterm\AddAllNumbersFrom50to100\AddAllNumbersFrom50to100\bin\Debug\AddAllNumbersFrom50to100.exe
+C:\Users\bartu\Desktop\midterm\AddAllNumbersFrom50to100\AddAllNumbersFrom50to100\bin\Debug\AddAllNumbersFrom50to100.pdb
+C:\Users\bartu\Desktop\midterm\AddAllNumbersFrom50to100\AddAllNumbersFrom50to100\obj\Debug\AddAllNumbersFrom50to100.csprojAssemblyReference.cache
+C:\Users\bartu\Desktop\midterm\AddAllNumbersFrom50to100\AddAllNumbersFrom50to100\obj\Debug\AddAllNumbersFrom50to100.Form1.resources
+C:\Users\bartu\Desktop\midterm\AddAllNumbersFrom50to100\AddAllNumbersFrom50to100\obj\Debug\AddAllNumbersFrom50to100.Properties.Resources.resources
+C:\Users\bartu\Desktop\midterm\AddAllNumbersFrom50to100\AddAllNumbersFrom50to100\obj\Debug\AddAllNumbersFrom50to100.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\midterm\AddAllNumbersFrom50to100\AddAllNumbersFrom50to100\obj\Debug\AddAllNumbersFrom50to100.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\midterm\AddAllNumbersFrom50to100\AddAllNumbersFrom50to100\obj\Debug\AddAllNumbersFrom50to100.exe
+C:\Users\bartu\Desktop\midterm\AddAllNumbersFrom50to100\AddAllNumbersFrom50to100\obj\Debug\AddAllNumbersFrom50to100.pdb

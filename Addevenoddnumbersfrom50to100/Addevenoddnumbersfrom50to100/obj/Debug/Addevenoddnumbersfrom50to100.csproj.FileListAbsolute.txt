@@ -1,0 +1,9 @@
+C:\Users\bartu\Desktop\midterm\Addevenoddnumbersfrom50to100\Addevenoddnumbersfrom50to100\bin\Debug\Addevenoddnumbersfrom50to100.exe.config
+C:\Users\bartu\Desktop\midterm\Addevenoddnumbersfrom50to100\Addevenoddnumbersfrom50to100\bin\Debug\Addevenoddnumbersfrom50to100.exe
+C:\Users\bartu\Desktop\midterm\Addevenoddnumbersfrom50to100\Addevenoddnumbersfrom50to100\bin\Debug\Addevenoddnumbersfrom50to100.pdb
+C:\Users\bartu\Desktop\midterm\Addevenoddnumbersfrom50to100\Addevenoddnumbersfrom50to100\obj\Debug\Addevenoddnumbersfrom50to100.Form1.resources
+C:\Users\bartu\Desktop\midterm\Addevenoddnumbersfrom50to100\Addevenoddnumbersfrom50to100\obj\Debug\Addevenoddnumbersfrom50to100.Properties.Resources.resources
+C:\Users\bartu\Desktop\midterm\Addevenoddnumbersfrom50to100\Addevenoddnumbersfrom50to100\obj\Debug\Addevenoddnumbersfrom50to100.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\midterm\Addevenoddnumbersfrom50to100\Addevenoddnumbersfrom50to100\obj\Debug\Addevenoddnumbersfrom50to100.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\midterm\Addevenoddnumbersfrom50to100\Addevenoddnumbersfrom50to100\obj\Debug\Addevenoddnumbersfrom50to100.exe
+C:\Users\bartu\Desktop\midterm\Addevenoddnumbersfrom50to100\Addevenoddnumbersfrom50to100\obj\Debug\Addevenoddnumbersfrom50to100.pdb
