@@ -1,0 +1,10 @@
+C:\Users\bartu\Desktop\midterm\deneme\deneme\bin\Debug\deneme.exe.config
+C:\Users\bartu\Desktop\midterm\deneme\deneme\bin\Debug\deneme.exe
+C:\Users\bartu\Desktop\midterm\deneme\deneme\bin\Debug\deneme.pdb
+C:\Users\bartu\Desktop\midterm\deneme\deneme\obj\Debug\deneme.Form1.resources
+C:\Users\bartu\Desktop\midterm\deneme\deneme\obj\Debug\deneme.Properties.Resources.resources
+C:\Users\bartu\Desktop\midterm\deneme\deneme\obj\Debug\deneme.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\midterm\deneme\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\midterm\deneme\deneme\obj\Debug\deneme.exe
+C:\Users\bartu\Desktop\midterm\deneme\deneme\obj\Debug\deneme.pdb
+C:\Users\bartu\Desktop\midterm\deneme\deneme\obj\Debug\deneme.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\bartu\Desktop\midterm\ExactDivisors\ExactDivisors\bin\Debug\ExactDivisors.exe.config
+C:\Users\bartu\Desktop\midterm\ExactDivisors\ExactDivisors\bin\Debug\ExactDivisors.exe
+C:\Users\bartu\Desktop\midterm\ExactDivisors\ExactDivisors\bin\Debug\ExactDivisors.pdb
+C:\Users\bartu\Desktop\midterm\ExactDivisors\ExactDivisors\obj\Debug\ExactDivisors.csprojAssemblyReference.cache
+C:\Users\bartu\Desktop\midterm\ExactDivisors\ExactDivisors\obj\Debug\ExactDivisors.Form1.resources
+C:\Users\bartu\Desktop\midterm\ExactDivisors\ExactDivisors\obj\Debug\ExactDivisors.Properties.Resources.resources
+C:\Users\bartu\Desktop\midterm\ExactDivisors\ExactDivisors\obj\Debug\ExactDivisors.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\midterm\ExactDivisors\ExactDivisors\obj\Debug\ExactDivisors.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\midterm\ExactDivisors\ExactDivisors\obj\Debug\ExactDivisors.exe
+C:\Users\bartu\Desktop\midterm\ExactDivisors\ExactDivisors\obj\Debug\ExactDivisors.pdb

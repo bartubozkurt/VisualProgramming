@@ -1,0 +1,10 @@
+C:\Users\bartu\Desktop\midterm\Kombinasyon\Kombinasyon\bin\Debug\Kombinasyon.exe.config
+C:\Users\bartu\Desktop\midterm\Kombinasyon\Kombinasyon\bin\Debug\Kombinasyon.exe
+C:\Users\bartu\Desktop\midterm\Kombinasyon\Kombinasyon\bin\Debug\Kombinasyon.pdb
+C:\Users\bartu\Desktop\midterm\Kombinasyon\Kombinasyon\obj\Debug\Kombinasyon.csprojAssemblyReference.cache
+C:\Users\bartu\Desktop\midterm\Kombinasyon\Kombinasyon\obj\Debug\Kombinasyon.Form1.resources
+C:\Users\bartu\Desktop\midterm\Kombinasyon\Kombinasyon\obj\Debug\Kombinasyon.Properties.Resources.resources
+C:\Users\bartu\Desktop\midterm\Kombinasyon\Kombinasyon\obj\Debug\Kombinasyon.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\midterm\Kombinasyon\Kombinasyon\obj\Debug\Kombinasyon.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\midterm\Kombinasyon\Kombinasyon\obj\Debug\Kombinasyon.exe
+C:\Users\bartu\Desktop\midterm\Kombinasyon\Kombinasyon\obj\Debug\Kombinasyon.pdb
