@@ -1,0 +1,10 @@
+C:\Users\bartu\Desktop\midterm\List all prime numbers between 2 and 100\List all prime numbers between 2 and 100\bin\Debug\List all prime numbers between 2 and 100.exe.config
+C:\Users\bartu\Desktop\midterm\List all prime numbers between 2 and 100\List all prime numbers between 2 and 100\bin\Debug\List all prime numbers between 2 and 100.exe
+C:\Users\bartu\Desktop\midterm\List all prime numbers between 2 and 100\List all prime numbers between 2 and 100\bin\Debug\List all prime numbers between 2 and 100.pdb
+C:\Users\bartu\Desktop\midterm\List all prime numbers between 2 and 100\List all prime numbers between 2 and 100\obj\Debug\List all prime numbers between 2 and 100.csprojAssemblyReference.cache
+C:\Users\bartu\Desktop\midterm\List all prime numbers between 2 and 100\List all prime numbers between 2 and 100\obj\Debug\List_all_prime_numbers_between_2_and_100.Form1.resources
+C:\Users\bartu\Desktop\midterm\List all prime numbers between 2 and 100\List all prime numbers between 2 and 100\obj\Debug\List_all_prime_numbers_between_2_and_100.Properties.Resources.resources
+C:\Users\bartu\Desktop\midterm\List all prime numbers between 2 and 100\List all prime numbers between 2 and 100\obj\Debug\List all prime numbers between 2 and 100.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\midterm\List all prime numbers between 2 and 100\List all prime numbers between 2 and 100\obj\Debug\List all prime numbers between 2 and 100.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\midterm\List all prime numbers between 2 and 100\List all prime numbers between 2 and 100\obj\Debug\List all prime numbers between 2 and 100.exe
+C:\Users\bartu\Desktop\midterm\List all prime numbers between 2 and 100\List all prime numbers between 2 and 100\obj\Debug\List all prime numbers between 2 and 100.pdb

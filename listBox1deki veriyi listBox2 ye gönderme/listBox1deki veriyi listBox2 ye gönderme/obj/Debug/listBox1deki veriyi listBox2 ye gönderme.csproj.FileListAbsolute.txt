@@ -1,0 +1,10 @@
+C:\Users\bartu\Desktop\midterm\listBox1deki veriyi listBox2 ye gönderme\listBox1deki veriyi listBox2 ye gönderme\bin\Debug\listBox1deki veriyi listBox2 ye gönderme.exe.config
+C:\Users\bartu\Desktop\midterm\listBox1deki veriyi listBox2 ye gönderme\listBox1deki veriyi listBox2 ye gönderme\bin\Debug\listBox1deki veriyi listBox2 ye gönderme.exe
+C:\Users\bartu\Desktop\midterm\listBox1deki veriyi listBox2 ye gönderme\listBox1deki veriyi listBox2 ye gönderme\bin\Debug\listBox1deki veriyi listBox2 ye gönderme.pdb
+C:\Users\bartu\Desktop\midterm\listBox1deki veriyi listBox2 ye gönderme\listBox1deki veriyi listBox2 ye gönderme\obj\Debug\listBox1deki veriyi listBox2 ye gönderme.csprojAssemblyReference.cache
+C:\Users\bartu\Desktop\midterm\listBox1deki veriyi listBox2 ye gönderme\listBox1deki veriyi listBox2 ye gönderme\obj\Debug\listBox1deki_veriyi_listBox2_ye_gönderme.Form1.resources
+C:\Users\bartu\Desktop\midterm\listBox1deki veriyi listBox2 ye gönderme\listBox1deki veriyi listBox2 ye gönderme\obj\Debug\listBox1deki_veriyi_listBox2_ye_gönderme.Properties.Resources.resources
+C:\Users\bartu\Desktop\midterm\listBox1deki veriyi listBox2 ye gönderme\listBox1deki veriyi listBox2 ye gönderme\obj\Debug\listBox1deki veriyi listBox2 ye gönderme.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\midterm\listBox1deki veriyi listBox2 ye gönderme\listBox1deki veriyi listBox2 ye gönderme\obj\Debug\listBox1deki veriyi listBox2 ye gönderme.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\midterm\listBox1deki veriyi listBox2 ye gönderme\listBox1deki veriyi listBox2 ye gönderme\obj\Debug\listBox1deki veriyi listBox2 ye gönderme.exe
+C:\Users\bartu\Desktop\midterm\listBox1deki veriyi listBox2 ye gönderme\listBox1deki veriyi listBox2 ye gönderme\obj\Debug\listBox1deki veriyi listBox2 ye gönderme.pdb
