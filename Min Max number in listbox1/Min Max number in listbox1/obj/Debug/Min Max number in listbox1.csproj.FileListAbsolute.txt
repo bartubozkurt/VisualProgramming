@@ -1,0 +1,10 @@
+C:\Users\bartu\Desktop\midterm\Min Max number in listbox1\Min Max number in listbox1\bin\Debug\Min Max number in listbox1.exe.config
+C:\Users\bartu\Desktop\midterm\Min Max number in listbox1\Min Max number in listbox1\bin\Debug\Min Max number in listbox1.exe
+C:\Users\bartu\Desktop\midterm\Min Max number in listbox1\Min Max number in listbox1\bin\Debug\Min Max number in listbox1.pdb
+C:\Users\bartu\Desktop\midterm\Min Max number in listbox1\Min Max number in listbox1\obj\Debug\Min Max number in listbox1.csprojAssemblyReference.cache
+C:\Users\bartu\Desktop\midterm\Min Max number in listbox1\Min Max number in listbox1\obj\Debug\Min_Max_number_in_listbox1.Form1.resources
+C:\Users\bartu\Desktop\midterm\Min Max number in listbox1\Min Max number in listbox1\obj\Debug\Min_Max_number_in_listbox1.Properties.Resources.resources
+C:\Users\bartu\Desktop\midterm\Min Max number in listbox1\Min Max number in listbox1\obj\Debug\Min Max number in listbox1.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\midterm\Min Max number in listbox1\Min Max number in listbox1\obj\Debug\Min Max number in listbox1.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\midterm\Min Max number in listbox1\Min Max number in listbox1\obj\Debug\Min Max number in listbox1.exe
+C:\Users\bartu\Desktop\midterm\Min Max number in listbox1\Min Max number in listbox1\obj\Debug\Min Max number in listbox1.pdb

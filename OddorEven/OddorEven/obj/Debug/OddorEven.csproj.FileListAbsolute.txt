@@ -1,0 +1,10 @@
+C:\Users\bartu\Desktop\midterm\OddorEven\OddorEven\bin\Debug\OddorEven.exe.config
+C:\Users\bartu\Desktop\midterm\OddorEven\OddorEven\bin\Debug\OddorEven.exe
+C:\Users\bartu\Desktop\midterm\OddorEven\OddorEven\bin\Debug\OddorEven.pdb
+C:\Users\bartu\Desktop\midterm\OddorEven\OddorEven\obj\Debug\OddorEven.csprojAssemblyReference.cache
+C:\Users\bartu\Desktop\midterm\OddorEven\OddorEven\obj\Debug\OddorEven.Form1.resources
+C:\Users\bartu\Desktop\midterm\OddorEven\OddorEven\obj\Debug\OddorEven.Properties.Resources.resources
+C:\Users\bartu\Desktop\midterm\OddorEven\OddorEven\obj\Debug\OddorEven.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\midterm\OddorEven\OddorEven\obj\Debug\OddorEven.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\midterm\OddorEven\OddorEven\obj\Debug\OddorEven.exe
+C:\Users\bartu\Desktop\midterm\OddorEven\OddorEven\obj\Debug\OddorEven.pdb
