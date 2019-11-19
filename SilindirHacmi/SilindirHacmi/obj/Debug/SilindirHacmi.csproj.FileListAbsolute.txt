@@ -1,0 +1,10 @@
+C:\Users\bartu\Desktop\midterm\SilindirHacmi\SilindirHacmi\bin\Debug\SilindirHacmi.exe.config
+C:\Users\bartu\Desktop\midterm\SilindirHacmi\SilindirHacmi\bin\Debug\SilindirHacmi.exe
+C:\Users\bartu\Desktop\midterm\SilindirHacmi\SilindirHacmi\bin\Debug\SilindirHacmi.pdb
+C:\Users\bartu\Desktop\midterm\SilindirHacmi\SilindirHacmi\obj\Debug\SilindirHacmi.csprojAssemblyReference.cache
+C:\Users\bartu\Desktop\midterm\SilindirHacmi\SilindirHacmi\obj\Debug\SilindirHacmi.Form1.resources
+C:\Users\bartu\Desktop\midterm\SilindirHacmi\SilindirHacmi\obj\Debug\SilindirHacmi.Properties.Resources.resources
+C:\Users\bartu\Desktop\midterm\SilindirHacmi\SilindirHacmi\obj\Debug\SilindirHacmi.csproj.GenerateResource.cache
+C:\Users\bartu\Desktop\midterm\SilindirHacmi\SilindirHacmi\obj\Debug\SilindirHacmi.csproj.CoreCompileInputs.cache
+C:\Users\bartu\Desktop\midterm\SilindirHacmi\SilindirHacmi\obj\Debug\SilindirHacmi.exe
+C:\Users\bartu\Desktop\midterm\SilindirHacmi\SilindirHacmi\obj\Debug\SilindirHacmi.pdb
